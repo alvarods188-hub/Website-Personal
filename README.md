@@ -1,5 +1,5 @@
 # Website-Personal
-[index.html.html](https://github.com/user-attachments/files/23550721/index.html.html)
+[index.html](https://github.com/user-attachments/files/23550721/index.html.html)
 <!DOCTYPE html>
 <html lang="id">
 <head>
